@@ -1,8 +1,8 @@
 # Personal-Portfolio
 
-_important: This repository is a Portfolio of past and current projects I have created
+_Important: Please add your name and City email address below and stage/commit/push to your Github repo._
 
-##Name: Xavier Murrow
+## Name: Xavier Murrow
 
-##Email: xavimurrow@gmail.com
+## Email: xavimurrow@gmail.com
  
