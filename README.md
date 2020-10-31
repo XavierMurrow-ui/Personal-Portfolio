@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-_Important: Please add your name and City email address below and stage/commit/push to your Github repo._
+_Important: This is all my past projects I have done over the years._
 
 ## Name: Xavier Murrow
 
