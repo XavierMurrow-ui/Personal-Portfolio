@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProjectV1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectV1_jar</output-path>
+    <root id="archive" name="ProjectV1.jar">
+      <element id="module-output" name="ProjectV1" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/IN1007/CityEngine40/CityEngine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

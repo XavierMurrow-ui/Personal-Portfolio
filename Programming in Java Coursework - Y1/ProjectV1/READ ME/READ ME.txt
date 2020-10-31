@@ -1,0 +1,6 @@
+Classes autocontrollerright and target are for future use and to not be used now.
+
+Images sourced from else where:
+
+Gun: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fpixel-art-gun-pixel-art-sprite-png%2FLDJsr6bS&psig=AOvVaw3t9i85qpMc9IKy6mXtzg-y&ust=1581353388280000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJikws72xOcCFQAAAAAdAAAAABAD
+Background: https://www.google.com/url?sa=i&url=http%3A%2F%2Fpixelartmaker.com%2Fart%2Fbecdd8955dc57eb&psig=AOvVaw0BUJ3Zhpnv528399p2Jv-o&ust=1581353463928000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjl-O72xOcCFQAAAAAdAAAAABAD
