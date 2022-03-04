@@ -1,0 +1,2 @@
+For some reason the camera upon spawning in is looking in the sky. I think its to do with locking in the cursor in the on render method.
+Either way I couldn't not find a fix in the scope of time I have.
